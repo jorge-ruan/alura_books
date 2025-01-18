@@ -2,14 +2,14 @@
 
     width:24px;
     height:24px;
-    background-image: url('../img/Menu.svg');   /*os dois pontos antes da /img é necessário para o vscode encontrar o arquivo css*/
+    background-image: url('Menu.svg');   /*os dois pontos antes da /img é necessário para o vscode encontrar o arquivo css*/
     background-repeat: no-repeat;               /*serve para que a imagem não seja repitida */
     background-position: center;                /* centraliza a imagem de fundo*/
     display: inline-block;
 }
 .conteiner_botao:checked~.conteiner__rótulo>.cabecalho_menu-hamburguer{ /* o tiu pcura uma condição com o checkbox foi clicado ele procurou a class que vem a seguir*/
                                                 /* ja o sinal de maior é usado para acessar a classe que esta dentro da maior/pai */
-    background-image: url('../img/Frame\ 20.svg');
+    background-image: url('Frame\ 20.svg');
 }
 .conteiner_botao:checked~.conteiner__rótulo{
 
