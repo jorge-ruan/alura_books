@@ -42,7 +42,7 @@
     font-weight: 400;
     font-size: 1rem;
     color: var(--cor-roxo);
-    background: url("../img/Email.svg");
+    background: url("Email.svg");
     background-repeat: no-repeat;
     padding-left: 2.5rem;              /*posiciona o placeholder*/
     background-position: 5px;         /* posiciona a imagem */ 
