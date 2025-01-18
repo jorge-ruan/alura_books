@@ -33,7 +33,7 @@
     font-weight: 400;
     font-size: 14px;
     color: var(--cor-branca);
-    background: url('../img/icone_pesquisa.svg');
+    background: url('icone_pesquisa.svg');
     background-repeat: no-repeat;
     background-position: 0.4em;
     text-align: center;
